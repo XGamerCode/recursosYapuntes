@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/tcpdump.md",
+                "file": "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/tcpdump.md",
+                "file": "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/tcpdump.md",
+                "file": "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/tcpdump.md"
+                "file": "Curso iniciación/Reconocimiento/Descubrimiento Host.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "5b0b9ab6d0ea1eb8",
   "lastOpenFiles": [
     "Curso iniciación/Reconocimiento/Nmap.md",
+    "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
     "Curso iniciación/Reconocimiento/tcpdump.md",
     "Sin título.md",
     "Curso iniciación/Reconocimiento",

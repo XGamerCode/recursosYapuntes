@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "c2cc0de5b9dd9c2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "74d5b09f9df0898a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3442a7932404f2c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seguridadInformatica/Curso iniciación/Reconocimiento/tcpdump.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d57a7fe036281fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "15619d4e68f3e95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed4568ff517da8ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2e3b26918a9b223",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d7b490e35ea89be",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21d58d50aa6f3d8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c16003eca2e5f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b8c2940fcfe287e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "seguridadInformatica/Curso iniciación/Reconocimiento/tcpdump.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b90f4070219a20a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "seguridadInformatica/Curso iniciación/Reconocimiento/tcpdump.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f15a39f090b295b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c82e9ae5125b9d57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "seguridadInformatica/Curso iniciación/Reconocimiento/tcpdump.md"
+              }
+            }
+          },
+          {
+            "id": "4d5c2ce64a34f155",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "3442a7932404f2c5",
+  "lastOpenFiles": [
+    "seguridadInformatica/Curso iniciación/Reconocimiento/Nmap.md",
+    "README.md",
+    "seguridadInformatica/Curso iniciación/Reconocimiento/tcpdump.md"
+  ]
+}

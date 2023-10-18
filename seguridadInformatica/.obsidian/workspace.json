@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "091981b5743c922f",
+        "id": "de6bcec90da374e3",
         "type": "tabs",
         "children": [
           {
-            "id": "8d479ce9b8dd2087",
+            "id": "706a054ba33e3136",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Vulnerabilidades/RFI (Remote File Inclusion).md",
+                "file": "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso iniciación/Vulnerabilidades/RFI (Remote File Inclusion).md",
+                "file": "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso iniciación/Vulnerabilidades/RFI (Remote File Inclusion).md",
+                "file": "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso iniciación/Vulnerabilidades/RFI (Remote File Inclusion).md"
+                "file": "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md"
               }
             }
           }
@@ -146,16 +146,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8d479ce9b8dd2087",
+  "active": "706a054ba33e3136",
   "lastOpenFiles": [
-    "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
+    "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
+    "Curso iniciación/Reconocimiento/gobuster.md",
+    "Curso iniciación/Reconocimiento/tcpdump.md",
+    "Curso iniciación/Reconocimiento/wfuzz.md",
+    "Curso iniciación/Reconocimiento/Nmap.md",
     "Curso iniciación/Vulnerabilidades/RFI (Remote File Inclusion).md",
+    "Curso iniciación/Vulnerabilidades/Log Poisoning (LFI a RCE).md",
+    "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
     "Curso iniciación/Vulnerabilidades/SQLI.md",
     "Curso iniciación/Reconocimiento/Descubrimiento de tecnologías.md",
     "Curso iniciación/Vulnerabilidades",
-    "Curso iniciación/Reconocimiento/Nmap.md",
-    "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
-    "Curso iniciación/Reconocimiento/tcpdump.md",
     "Sin título.md",
     "Curso iniciación/Reconocimiento",
     "Curso iniciación"

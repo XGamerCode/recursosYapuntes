@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "de6bcec90da374e3",
+        "id": "1a08cbd10fa486b0",
         "type": "tabs",
         "children": [
           {
-            "id": "706a054ba33e3136",
+            "id": "0fa085b55fc4aa86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
+                "file": "Curso iniciación/Documentacion/Tmux (Terminal multiplexers).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
+                "file": "Curso iniciación/Documentacion/Tmux (Terminal multiplexers).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
+                "file": "Curso iniciación/Documentacion/Tmux (Terminal multiplexers).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md"
+                "file": "Curso iniciación/Documentacion/Tmux (Terminal multiplexers).md"
               }
             }
           }
@@ -146,18 +146,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "706a054ba33e3136",
+  "active": "0fa085b55fc4aa86",
   "lastOpenFiles": [
+    "Curso iniciación/Documentacion/Netcat.md",
+    "Curso iniciación/Documentacion/Tmux (Terminal multiplexers).md",
+    "img/netcatBanner.png",
+    "Curso iniciación/Documentacion/SSH (Secure Shell).md",
+    "Curso iniciación/Documentacion/Comandos Básicos.md",
+    "Curso iniciación/Comandos",
+    "Curso iniciación/Documentacion/Conexión VPN HTB.md",
+    "Curso iniciación/Documentacion/Etapas de las pruebas de penetración.md",
+    "img",
+    "img/Grafico_fases_prueba_penetracion.png",
+    "Curso iniciación/Reconocimiento/Descubrimiento de tecnologías.md",
+    "Curso iniciación/Documentacion",
     "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
+    "Curso iniciación/Reconocimiento/Nmap.md",
+    "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
     "Curso iniciación/Reconocimiento/gobuster.md",
     "Curso iniciación/Reconocimiento/tcpdump.md",
     "Curso iniciación/Reconocimiento/wfuzz.md",
-    "Curso iniciación/Reconocimiento/Nmap.md",
     "Curso iniciación/Vulnerabilidades/RFI (Remote File Inclusion).md",
     "Curso iniciación/Vulnerabilidades/Log Poisoning (LFI a RCE).md",
-    "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
     "Curso iniciación/Vulnerabilidades/SQLI.md",
-    "Curso iniciación/Reconocimiento/Descubrimiento de tecnologías.md",
     "Curso iniciación/Vulnerabilidades",
     "Sin título.md",
     "Curso iniciación/Reconocimiento",

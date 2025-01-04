@@ -24,3 +24,11 @@ gobuster vhost -u <URL-objetivo> -w <diccionario-a-usar> -t 20
 - -t numero de hilos de ejecución que vamos a utilizar para paralelizar el escaneo.
 - si encontramos datos que no nos interesan podemos filtrar con grep -v segido de un codigo de estado para no mostrarlas
 Podríamos usar por ejemplo el diccionario de subdominios de seclist [diccionario seclists (github.com)](https://github.com/danielmiessler/SecLists)
+
+Ejemplo de uso en una maquina que realice en hackthebox que se llamaba UnderPass
+```bash
+gobuster dir -u http://underpass.htb/daloradius/app/ -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -b 400,404 -t 50 --no-error
+
+```
+
+El problema que le veo a gobuster es que no realiza búsquedas recursivas por todos los directorios, pero se pueden hacer a mano.

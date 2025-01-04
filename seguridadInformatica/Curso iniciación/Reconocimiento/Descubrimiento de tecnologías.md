@@ -10,5 +10,5 @@ Para poder averiguar sobre que tecnologías esta construida una web podemos hace
 whatweb <url-objetivo>
 ```
 
-- wappalyzer addon para el navegador que retorna informacion de la pagina web en la que se esta navegando y sus tecnologias, se instala directamente como plugin.
+- wappalyzer addon para el navegador que retorna información de la pagina web en la que se esta navegando y sus tecnologías, se instala directamente como plugin.
 - 

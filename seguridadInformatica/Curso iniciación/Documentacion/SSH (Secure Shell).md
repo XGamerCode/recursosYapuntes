@@ -12,7 +12,3 @@ ssh <cliente@ip>
 ```
 
 Continuara....
-
-
-tierlist de certificacions
-![[{23B438F5-D1CE-422D-B8CA-802AD5B07185}.png]]

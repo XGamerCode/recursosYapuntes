@@ -16,6 +16,19 @@ El uso básico de **Nmap** :
 nmap -p- <ip-objetivo>
 ```
 
+Escaneo de red para la obtención de host:
+```bash
+
+nmap -sn 192.168.56.0/24
+
+```
+
+Ejemplo de escaner
+```bash
+sudo nmap -p- --open -n -Pn -sS --min-rate 4000 <ip-objetivo> -vvv
+
+```
+
 Parámetros comunes de **Nmap** (ojo case sensitive).
 - **-p** especifica el/los puertos que van a ser escaneados. Se puede especificar como **-p-** para todos los puertos, **p22** para escanear un puerto concreto como por ejemplo el 22 o por rango de puerto **p1-128** que escanearía desde el puerto 1 al 128. (TCP 65535 puertos)(UDP 65535 puertos).
 - **--open** especifica que solo quieres que te retorne los puertos que se encuentren abiertos.
@@ -29,6 +42,7 @@ Parámetros comunes de **Nmap** (ojo case sensitive).
 - **-O** comando para intentar detectar el sistema operativo de un host. (No recomendado, demasiado agresivo).
 - **-sV** con este comando Nmap intenta averiguar las versiones de los servicios que corren por un puerto.
 - **-sC** comando que especifica que queremos usar un conjunto básico de scripts de reconocimiento (recomendacion usar en un segundo escaneo cuando ya sepamos los puertos)(se puede colapsar con el comando anterior en un solo comando **-sCV**)  
+- **-sn** Especificándole una ip o rango de ips (192.168.0.0/24) realiza un descubrimiento de host lanzando trazas icmp denominado **barrido de ping** 
 
 ---
 Parámetros para la evasión de firewalls.

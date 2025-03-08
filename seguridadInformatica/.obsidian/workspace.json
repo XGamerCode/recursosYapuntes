@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/Descubrimiento de tecnologías.md",
+                "file": "Asignaturas Esquemas/Gestion y metodos de la ciberseguridad/Resumen Tema 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Descubrimiento de tecnologías"
+              "title": "Resumen Tema 2"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vulnerabilidad",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -164,48 +165,51 @@
   },
   "active": "0fa085b55fc4aa86",
   "lastOpenFiles": [
-    "Curso iniciación/Reconocimiento/gobuster.md",
-    "Curso iniciación/Contraseñas/crackear hash.md",
-    "Maquinas/exploitable1_UCJC/writeup ucjc1.md",
-    "Curso iniciación/Contraseñas",
-    "Maquinas/exploitable2_UCJC/writeup ucjc2.md",
-    "Curso iniciación/Vulnerabilidades/SQLI.md",
-    "Maquinas/exploitable2_UCJC/img/Pasted image 20241229113012.png",
-    "Maquinas/exploitable2_UCJC/img/Pasted image 20241229105943.png",
-    "Maquinas/exploitable2_UCJC/img/Pasted image 20241229104853.png",
-    "Curso iniciación/Reconocimiento/Descubrimiento de tecnologías.md",
-    "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
-    "Maquinas/exploitable2_UCJC/img/Pasted image 20241228135634.png",
-    "Maquinas/exploitable2_UCJC/img/Pasted image 20241228135016.png",
-    "Maquinas/exploitable2_UCJC/img/Pasted image 20241228134922.png",
-    "Maquinas/exploitable2_UCJC/img/Pasted image 20241228134517.png",
-    "Maquinas/exploitable2_UCJC/img",
-    "Maquinas/exploitable2_UCJC/img/Pasted image 20241228134351.png",
-    "Curso iniciación/Documentacion/Transferencia de archivos.md",
-    "Maquinas/exploitable2_UCJC",
-    "Curso iniciación/Documentacion/Netcat.md",
+    "Asignaturas Esquemas/Gestion y metodos de la ciberseguridad/Resumen Tema 1.md",
+    "Asignaturas Esquemas/Gestion y metodos de la ciberseguridad/Resumen Tema 2.md",
+    "Curso iniciación/Buffer-overflow/script_py.md",
     "Curso iniciación/Reconocimiento/Nmap.md",
-    "Curso iniciación/Reconocimiento/netdiscover.md",
-    "Maquinas/exploitable1_UCJC/img/Pasted image 20241216190505.png",
-    "Maquinas/exploitable1_UCJC/img/Pasted image 20241216190402.png",
-    "Maquinas/exploitable1_UCJC/img",
-    "Curso iniciación/Documentacion/Etapas de las pruebas de penetración.md",
-    "Curso iniciación/Documentacion/Conexión VPN HTB.md",
-    "Curso iniciación/Documentacion/Comandos Básicos.md",
-    "Maquinas/exploitable1_UCJC",
-    "Maquinas",
-    "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
-    "Curso iniciación/Reconocimiento/wfuzz.md",
-    "Curso iniciación/Reconocimiento/tcpdump.md",
-    "Curso iniciación/Documentacion/Tmux (Terminal multiplexers).md",
+    "Asignaturas Esquemas/Hacking etico/Resumen.md",
+    "Asignaturas Esquemas/Componentes de la ciberseguridad/Resumen.md",
+    "Pasted image 20250219172135.png",
+    "Pasted image 20250219171228.png",
+    "Pasted image 20250219171135.png",
+    "Pasted image 20250219171100.png",
+    "Asignaturas Esquemas/Componentes de la ciberseguridad/Pasted image 20250219171036.png",
+    "Asignaturas Esquemas/Componentes de la ciberseguridad/Pasted image 20250219171017.png",
+    "Curso iniciación/Escalada de privilegios/Windows.md",
+    "Curso iniciación/Escalada de privilegios/Linux&unix.md",
+    "Asignaturas Esquemas/Ciberinteligencia y fuentes abiertas",
+    "Asignaturas Esquemas/Gestion y metodos de la ciberseguridad",
+    "Asignaturas Esquemas/Componentes de la ciberseguridad",
+    "Asignaturas Esquemas/Hacking etico",
+    "Asignaturas Esquemas",
+    "Curso iniciación/Documentacion/Netcat.md",
     "Curso iniciación/Documentacion/SSH (Secure Shell).md",
-    "Curso iniciación/Vulnerabilidades/RFI (Remote File Inclusion).md",
-    "Curso iniciación/Vulnerabilidades/Log Poisoning (LFI a RCE).md",
-    "journals/2024_10_16.md",
-    "Curso iniciación/Comandos",
-    "img",
-    "Curso iniciación/Documentacion",
-    "Curso iniciación/Vulnerabilidades",
-    "Sin título.md"
+    "Curso iniciación/Buffer-overflow/buffer-overflow.md",
+    "Maltego-practica.md",
+    "Curso iniciación/Buffer-overflow",
+    "Curso iniciación/Documentacion/Transferencia de archivos.md",
+    "Curso iniciación/Documentacion/Comandos Básicos.md",
+    "Curso iniciación/Escalada de privilegios/img",
+    "Curso iniciación/Escalada de privilegios/img/Pasted image 20250125171128.png",
+    "Curso iniciación/Reconocimiento/Descubrimiento de tecnologías.md",
+    "Maquinas/exploitable2_UCJC/writeup ucjc2.md",
+    "Curso iniciación/Escalada de privilegios",
+    "Curso iniciación/Vulnerabilidades/SQLI.md",
+    "Maquinas/metasploitable-1/metasploitable-1.md",
+    "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
+    "Curso iniciación/Reconocimiento/Sqlmap.md",
+    "Maquinas/exploitable1_UCJC/writeup ucjc1.md",
+    "Maquinas/metasploitable-1/img/Pasted image 20250110171532.png",
+    "Maquinas/metasploitable-1/img/Pasted image 20250110171310.png",
+    "Maquinas/metasploitable-1/img",
+    "Maquinas/metasploitable-1/img/Pasted image 20250108190738.png",
+    "Maquinas/metasploitable-1",
+    "Curso iniciación/Contraseñas/crackear hash.md",
+    "Curso iniciación/Reconocimiento/gobuster.md",
+    "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
+    "Curso iniciación/Reconocimiento/netdiscover.md",
+    "Curso iniciación/Documentacion/Etapas de las pruebas de penetración.md"
   ]
 }

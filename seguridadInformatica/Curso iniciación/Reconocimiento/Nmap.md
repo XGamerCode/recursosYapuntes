@@ -43,6 +43,7 @@ Parámetros comunes de **Nmap** (ojo case sensitive).
 - **-sV** con este comando Nmap intenta averiguar las versiones de los servicios que corren por un puerto.
 - **-sC** comando que especifica que queremos usar un conjunto básico de scripts de reconocimiento (recomendacion usar en un segundo escaneo cuando ya sepamos los puertos)(se puede colapsar con el comando anterior en un solo comando **-sCV**)  
 - **-sn** Especificándole una ip o rango de ips (192.168.0.0/24) realiza un descubrimiento de host lanzando trazas icmp denominado **barrido de ping** 
+- -sX similar al sS pero en este caso se retorna un paquete reset si el puerto esta cerrado, sino podemos entender que se encuentra abierto.
 
 ---
 Parámetros para la evasión de firewalls.

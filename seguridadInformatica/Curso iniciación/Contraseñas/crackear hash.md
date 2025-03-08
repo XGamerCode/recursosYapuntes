@@ -7,3 +7,12 @@ Posteriormente podemos usar la herramienta **hashcat** a la cual le pasamos -m p
 
 para encontrar contraseñas en una maquina podriamos probar a buscar si tenemos acceso al /etc/passwd
 y tambien necesitamos el /etc/shadow el cual tiene el hash de la contraseña de los usuarios.
+
+- para crackear la pass de un archivo .zip se puede usar el modulo zip2john para pasar el hash a un archivo que reconoce john the ripper y asi poder hacer un ataque de fuerza bruta al hash
+```bash 
+zip2john <nombre-archivo>.zip > hash
+```
+
+```bash
+john --wordlist=<ruta-diccionario> hash
+```

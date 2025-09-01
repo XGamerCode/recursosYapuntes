@@ -1,4 +1,4 @@
-- Tags: #reconocimiento #herramienta #scanner 
+- Tags: #reconocimiento #herramienta #scanner #web 
 ---
 
 Esta herramienta sirve para automatizar ataques de sql y para enumerar estas bases de datos

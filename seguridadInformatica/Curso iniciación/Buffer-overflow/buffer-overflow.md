@@ -1,4 +1,4 @@
-tags: 
+tags: #temario #master #tecnica #explotacion 
 
 ---
 Pasos para realizar un ataque de buffer overflow a un binario:

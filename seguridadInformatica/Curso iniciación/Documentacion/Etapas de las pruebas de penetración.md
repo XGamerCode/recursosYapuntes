@@ -22,3 +22,18 @@ tags: #informacion
 					Aquí deberemos generar la documentación que servirá como reporte de como logramos llegar a ese objetivo, detallando todos los pasos seguidos con el mayor detalle posible. 
 - 8 Post-compromiso:
 					En este punto deberemos limpiar todo el rastro que hayamos podido generar con todo el progreso seguido.
+
+Metodología a seguir en una prueba de penetración: 
+- Enumeración de la infraestructura.
+- Enumeración de cada host descubierto. 
+- Enumeración del sistema operativo (OS)
+![[Pasted image 20250914142325.png]]
+
+Principales capas:
+
+- Presencia en internet: identificación de la infraestructura accesible desde internet. Pueden ser Dominios, subdominios, vhosts, bloques de red, ips, instancias en la nube, medidas de seguridad.
+- Puerta de entrada: identificar las posibles medidas de segurdad para proteger la infraestructura externa e interna. DMZ, Firewalls, ips/ids, proxies, segmentaciones de red, vpn, etc.
+- Servicios accesibles: servicios que corriendo dentro de un host y que son visibles.
+- Privilegios: identificación de los permisos y privilegios internos a los servicios accesibles. Grupos, usuarios, permisos, restricciones, etc.
+- OS: identificación de los componentes internos y de configuración del sistema. Tipo de sistema operativo, nivel de parche, configuración de la red, archivos de configuración, archivos privados confidenciales...
+

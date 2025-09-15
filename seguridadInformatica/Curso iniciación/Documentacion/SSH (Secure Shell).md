@@ -8,7 +8,6 @@ SSH utiliza un modelo cliente-servidor y es mas estable que lanzar una rever-she
 
 Para usar ssh el comando seria:
 ```bash
-ssh <cliente@ip>
+ssh <cliente>@<ip>
 ```
 
-Continuara....

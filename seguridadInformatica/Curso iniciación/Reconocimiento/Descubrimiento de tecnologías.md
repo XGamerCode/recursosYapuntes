@@ -12,3 +12,7 @@ whatweb <url-objetivo>
 
 - wappalyzer addon para el navegador que retorna información de la pagina web en la que se esta navegando y sus tecnologías, se instala directamente como plugin.
 - 
+Se puede realizar banner grabbing a una web realizando un curl con el comando:
+```bash 
+curl -IL <dominio de la web>
+```

@@ -27,7 +27,15 @@ ssh-keygen
 ```bash 
 ssh <user>@<ip-objetivo> -i <archivo-clave-ssh>
 ```
-- **EXPLOTACION** ,para explotar esto deberemos de obtener la clave privada o el directorio con permisos de escritura. Si esto sucede podremos obtener la clave shh o **sobreescribirla** 
+- **EXPLOTACION** ,para explotar esto deberemos de obtener la clave privada o el directorio con permisos de escritura. Si esto sucede podremos obtener la clave shh o **sobrescribirla** 
+
+**También** podemos aprovecharnos si tenemos permisos de lectura del fichero id_rsa, podemos copiarlo en nuestra maquina y conectarnos por ssh, para ello deberemos de cambiar los permisos del fichero que creemos en nuestra maquina con chmod 600 
+
+```bash
+touch id_rsa (con el contenido del dichero id_rsa de la maquina victima)
+chmod 600 id_rsa
+ssh <usuario>@<ip-victima> -i id_rsa
+```
 
 **METODO SUDO** por lo general la configuración de sudo se establece en el archivo
 ```bash 

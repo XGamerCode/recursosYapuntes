@@ -1,4 +1,4 @@
-tags: #maquina #writeups \
+tags: #maquina #writeups 
 
 ---
 

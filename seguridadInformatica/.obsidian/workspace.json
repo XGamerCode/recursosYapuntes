@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "seguridadInformatica/Curso iniciación/Escalada de privilegios/Linux&unix.md",
-                "bFile": "seguridadInformatica/Curso iniciación/Escalada de privilegios/Linux&unix.md",
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Linux&unix"
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "71cb39e84528bfcd",
   "lastOpenFiles": [
+    "Curso iniciación/Guias de trabajo/Guía Footprinting.md",
     "Curso iniciación/Escalada de privilegios/Linux&unix.md",
     "Sin título.base",
     "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
@@ -208,7 +209,6 @@
     "Curso iniciación/Documentacion/Etapas de las pruebas de penetración.md",
     "Curso iniciación/Documentacion/Conexión VPN HTB.md",
     "Curso iniciación/Documentacion/Comandos Básicos.md",
-    "Curso iniciación/Guias de trabajo/Guía Footprinting.md",
     "Curso iniciación/Reconocimiento/wfuzz.md",
     "Curso iniciación/Reconocimiento/tcpdump.md",
     "img/{23B438F5-D1CE-422D-B8CA-802AD5B07185}.png",

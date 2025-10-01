@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "seguridadInformatica/Maquinas/exploitable2_UCJC/writeup ucjc2.md",
-                "bFile": "seguridadInformatica/Maquinas/exploitable2_UCJC/writeup ucjc2.md",
+                "aFile": "seguridadInformatica/Curso iniciación/Escalada de privilegios/Linux&unix.md",
+                "bFile": "seguridadInformatica/Curso iniciación/Escalada de privilegios/Linux&unix.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: writeup ucjc2"
+              "title": "Diff: Linux&unix"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 737.5
+    "width": 600.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,13 +182,13 @@
   },
   "active": "71cb39e84528bfcd",
   "lastOpenFiles": [
+    "Curso iniciación/Escalada de privilegios/Linux&unix.md",
+    "Sin título.base",
     "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
     "Tareas pendientes Alvantia.md",
     "Sin título.canvas",
     "2025-10-01.md",
-    "Sin título.base",
     "Curso iniciación/Reconocimiento/FTP.md",
-    "Curso iniciación/Escalada de privilegios/Linux&unix.md",
     "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
     "Curso iniciación/Reconocimiento/Descubrimiento de tecnologías.md",
     "Curso iniciación/Reconocimiento/Nmap.md",

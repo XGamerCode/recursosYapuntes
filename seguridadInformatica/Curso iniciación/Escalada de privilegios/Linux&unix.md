@@ -10,7 +10,7 @@ Entre ellas podemos observar:
 - Cron jobs.
 - Configuración errónea de servicios.
 - Kernel exploits.
-- Herramientas automatizadas.
+- Herramientas automatizadas. 
 
 **METODO SSH** la conexión por ssh es muy común y se establece por dos métodos, el primero es por contraseña que introducirá el usuario al intentar conectar por este protocolo, la segunda es mediante una contraseña por clave publica/privada que se guardara en un archivo que se le pasa al intentar establecer la conexión.
 

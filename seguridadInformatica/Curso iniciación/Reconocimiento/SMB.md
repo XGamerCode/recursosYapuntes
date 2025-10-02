@@ -26,4 +26,5 @@ querygroup 0x201
 Ajustes sensibles de smb que se pueden aprovechar por el atacante
 ![[Pasted image 20251002172323.png]]
 
-a parte de rpcclient tambien se puede usar smbmap y CrackMa
+a parte de rpcclient tambien se puede usar smbmap y CrackMapExec
+![[Pasted image 20251002173922.png]]

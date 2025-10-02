@@ -28,3 +28,6 @@ Ajustes sensibles de smb que se pueden aprovechar por el atacante
 
 a parte de rpcclient tambien se puede usar smbmap y CrackMapExec
 ![[Pasted image 20251002173922.png]]
+
+enum4linux-ng 
+para instalar este recurso 

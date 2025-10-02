@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Escalada de privilegios/Windows.md",
+                "file": "Curso iniciación/Reconocimiento/SMB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows"
+              "title": "SMB"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 600.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,6 +182,9 @@
   },
   "active": "71cb39e84528bfcd",
   "lastOpenFiles": [
+    "Curso iniciación/Reconocimiento/FTP.md",
+    "Curso iniciación/Reconocimiento/SMB.md",
+    "Curso iniciación/Escalada de privilegios/Windows.md",
     "Curso iniciación/Guias de trabajo/Guía Footprinting.md",
     "Curso iniciación/Escalada de privilegios/Linux&unix.md",
     "Sin título.base",
@@ -189,7 +192,6 @@
     "Tareas pendientes Alvantia.md",
     "Sin título.canvas",
     "2025-10-01.md",
-    "Curso iniciación/Reconocimiento/FTP.md",
     "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
     "Curso iniciación/Reconocimiento/Descubrimiento de tecnologías.md",
     "Curso iniciación/Reconocimiento/Nmap.md",
@@ -199,7 +201,6 @@
     "Curso iniciación/Documentacion/SSH (Secure Shell).md",
     "Curso iniciación/Documentacion/Revert shell php.md",
     "Curso iniciación/Documentacion/Puertos comunes.md",
-    "Curso iniciación/Escalada de privilegios/Windows.md",
     "Curso iniciación/Documentacion/Netcat.md",
     "Curso iniciación/Vulnerabilidades/SQLI.md",
     "Curso iniciación/Vulnerabilidades/RFI (Remote File Inclusion).md",

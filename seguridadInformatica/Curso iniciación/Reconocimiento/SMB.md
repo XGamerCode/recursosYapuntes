@@ -30,4 +30,15 @@ a parte de rpcclient tambien se puede usar smbmap y CrackMapExec
 ![[Pasted image 20251002173922.png]]
 
 enum4linux-ng 
-para instalar este recurso 
+para instalar este recurso: 
+```bash 
+git clone https://github.com/cddmp/enum4linux-ng.git
+cd enum4linux-ng
+pip3 install -r requirements.txt
+```
+se ejecuta con:
+
+```bash
+./enum4linux-ng.py <ip-objetivo> -A
+```
+

@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "SMB"
             }
+          },
+          {
+            "id": "d84342684d04308c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 441.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71cb39e84528bfcd",
+  "active": "d84342684d04308c",
   "lastOpenFiles": [
     "Pasted image 20251002173922.png",
     "Pasted image 20251002173342.png",

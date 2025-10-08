@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
+                "file": "Curso iniciación/Reconocimiento/SMB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LFI (Local File Inclusion)"
+              "title": "SMB"
             }
           }
         ],
@@ -197,6 +197,7 @@
   },
   "active": "d84342684d04308c",
   "lastOpenFiles": [
+    "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
     "Pasted image 20251002173922.png",
     "Pasted image 20251002173342.png",
     "img/Pasted image 20251002172323.png",
@@ -206,7 +207,6 @@
     "Curso iniciación/Guias de trabajo/Guía Footprinting.md",
     "Curso iniciación/Escalada de privilegios/Linux&unix.md",
     "Sin título.base",
-    "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
     "Tareas pendientes Alvantia.md",
     "Sin título.canvas",
     "2025-10-01.md",
@@ -234,7 +234,6 @@
     "img/Pasted image 20250901134734.png",
     "img/Pasted image 20250901134551.png",
     "img/Pasted image 20250901133204.png",
-    "Maquinas/exploitable2_UCJC/img/Pasted image 20241228135634.png",
     "Maquinas/exploitable2_UCJC/img",
     "Maquinas/metasploitable-1/img",
     "Maquinas/exploitable1_UCJC/img",

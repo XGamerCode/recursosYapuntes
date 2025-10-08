@@ -25,12 +25,14 @@
             "id": "d84342684d04308c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.9.14"
+              "icon": "lucide-file",
+              "title": "LFI (Local File Inclusion)"
             }
           }
         ],

@@ -33,4 +33,4 @@ Una vez terminado podemos hacer uso de los scripts de nfs que tiene nmap
 sudo nmap --script nfs* <ip-objetivo> -sV -p111,2049
 ```
 
-Una vez que tenemos enumerado 
+Una vez que tenemos enumerado el servicio podemos proceder a montar las carpetas compartidas en nuestro sistema.

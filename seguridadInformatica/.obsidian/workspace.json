@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/SMB.md",
+                "file": "Curso iniciación/Reconocimiento/NFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB"
+              "title": "NFS"
             }
           }
         ],
@@ -197,12 +197,13 @@
   },
   "active": "d84342684d04308c",
   "lastOpenFiles": [
+    "Curso iniciación/Reconocimiento/SMB.md",
+    "Curso iniciación/Reconocimiento/NFS.md",
     "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
     "Pasted image 20251002173922.png",
     "Pasted image 20251002173342.png",
     "img/Pasted image 20251002172323.png",
     "Curso iniciación/Reconocimiento/FTP.md",
-    "Curso iniciación/Reconocimiento/SMB.md",
     "Curso iniciación/Escalada de privilegios/Windows.md",
     "Curso iniciación/Guias de trabajo/Guía Footprinting.md",
     "Curso iniciación/Escalada de privilegios/Linux&unix.md",

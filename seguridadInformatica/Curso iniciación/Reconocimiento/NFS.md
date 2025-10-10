@@ -34,3 +34,18 @@ sudo nmap --script nfs* <ip-objetivo> -sV -p111,2049
 ```
 
 Una vez que tenemos enumerado el servicio podemos proceder a montar las carpetas compartidas en nuestro sistema.
+
+- showmount nos mostrara las carpetas disponibles para montar
+```bash
+showmount -e <ip-objetivo>
+```
+
+- montamos la carpeta en una carpeta local
+
+```bash
+mkdir target-NFS
+sudo mount -t <nombre-carpeta-remota> <ipobjetivo>:/ ./target-NFS/ -o nolock
+cd target-NFS
+```
+
+a partir de aqui podemos usar comandos comunes de linux para ver los archivos o los grupos etc como puede ser ls -la o -n

@@ -13,12 +13,31 @@ Para enumerar el servicio manualmente
 
 Interactuamos con el servidor:
 ```bash
-dig ns inlanefreight.htb @10.129.14.128
+dig ns <nombre-DNS-objetivo> @<ip-objetivo>
 ```
 
 Intentamos extraer su versión 
 ```bash
-dig CH TXT version.bind 10.129.120.85
+dig CH TXT version.bind <ip-objetivo>
 ```
 
-Revisamos la invio
+Revisamos la información disponible del registro any
+```bash
+dig any <nombre-DNS-objetivo> @<ip-objetivo>
+```
+
+Se intenta un cambio de zona:
+```bash
+dig axfr <nombre-DNS-objetivo> @<ip-objetivo>
+```
+
+Se intenta un cambio de zona interna:
+```bash
+dig axfr subdominio.<nombre-DNS-objetivo> @<ip-objetivo>
+```
+
+También se puede intentar hacer fuerza bruta con un diccionario con la herramienta dnsenum
+
+```bash
+dnsenum --dnsserver <ip-objetivo> --enum -p 0 -s 0 -o subdomains.txt -f /opt/useful/seclists/Discovery/DNS/subdomains-top1million-110000.txt <nombre-dominio>
+```

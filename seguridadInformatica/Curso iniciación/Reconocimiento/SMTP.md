@@ -25,3 +25,16 @@ VRFY <usuario a verificar>
 ```
 
 comandos útiles:
+![[Pasted image 20251021111149.png]]
+
+Para enumerar el servicio lo podemos hacer con la herramienta mnap
+
+```bash
+sudo nmap <ip-objetivo> -sCV -p25
+```
+
+Adicionalmente podemos ver si tiene open relay con el script smtp-open-relay 
+
+```bash 
+sudo nmap <ip-objetivo> -p25 --script smtp-open-relay 
+```

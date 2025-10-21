@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/Nmap.md",
+                "file": "Curso iniciación/Reconocimiento/SMTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nmap"
+              "title": "SMTP"
             }
           }
         ],
@@ -197,6 +197,7 @@
   },
   "active": "d84342684d04308c",
   "lastOpenFiles": [
+    "Curso iniciación/Reconocimiento/Nmap.md",
     "Curso iniciación/Reconocimiento/SMTP.md",
     "Pasted image 20251021111149.png",
     "Curso iniciación/Reconocimiento/DNS.md",
@@ -220,7 +221,6 @@
     "2025-10-01.md",
     "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
     "Curso iniciación/Reconocimiento/Descubrimiento de tecnologías.md",
-    "Curso iniciación/Reconocimiento/Nmap.md",
     "Maquinas/exploitable1_UCJC/writeup ucjc1.md",
     "Maquinas/metasploitable-1/metasploitable-1.md",
     "Curso iniciación/Reconocimiento/gobuster.md",

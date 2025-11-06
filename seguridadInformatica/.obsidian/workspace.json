@@ -25,12 +25,14 @@
             "id": "d84342684d04308c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20250901134734.png"
+                "file": "Curso iniciación/Reconocimiento/POP3-IMAP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250901134734"
+              "icon": "lucide-file",
+              "title": "POP3-IMAP"
             }
           }
         ],
@@ -195,6 +197,9 @@
   },
   "active": "d84342684d04308c",
   "lastOpenFiles": [
+    "Curso iniciación/Reconocimiento/Sqlmap.md",
+    "Curso iniciación/Reconocimiento/POP3-IMAP.md",
+    "img/Pasted image 20250901134734.png",
     "Curso iniciación/Buffer-overflow/script_py.md",
     "Curso iniciación/Buffer-overflow/buffer-overflow.md",
     "Curso iniciación/Reconocimiento/NFS.md",
@@ -229,10 +234,7 @@
     "Curso iniciación/Documentacion/Puertos comunes.md",
     "Curso iniciación/Documentacion/Netcat.md",
     "Curso iniciación/Vulnerabilidades/SQLI.md",
-    "Curso iniciación/Vulnerabilidades/RFI (Remote File Inclusion).md",
-    "Curso iniciación/Vulnerabilidades/Log Poisoning (LFI a RCE).md",
     "Maquinas/exploitable1_UCJC/img/Pasted image 20241216185000.png",
-    "Maquinas/exploitable1_UCJC/img/Pasted image 20241216183917.png",
     "Maquinas/exploitable2_UCJC/img",
     "Maquinas/metasploitable-1/img",
     "Maquinas/exploitable1_UCJC/img",

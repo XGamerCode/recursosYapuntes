@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/SMB.md",
+                "file": "Curso iniciación/Reconocimiento/POP3-IMAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB"
+              "title": "POP3-IMAP"
             }
           }
         ],
@@ -197,6 +197,7 @@
   },
   "active": "d84342684d04308c",
   "lastOpenFiles": [
+    "Curso iniciación/Reconocimiento/SMB.md",
     "Curso iniciación/Reconocimiento/POP3-IMAP.md",
     "Pasted image 20251106090257.png",
     "Pasted image 20251106090240.png",
@@ -205,7 +206,6 @@
     "Curso iniciación/Buffer-overflow/script_py.md",
     "Curso iniciación/Buffer-overflow/buffer-overflow.md",
     "Curso iniciación/Reconocimiento/NFS.md",
-    "Curso iniciación/Reconocimiento/SMB.md",
     "Curso iniciación/Reconocimiento/SMTP.md",
     "Curso iniciación/Reconocimiento/Nmap.md",
     "Pasted image 20251021111149.png",

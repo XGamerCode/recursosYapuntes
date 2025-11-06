@@ -7,10 +7,22 @@ Este protocolo usa comúnmente los puertos 143 y 993
 
 ![[Pasted image 20251106090240.png]]
 
-**para que los comandos sen validos en el IMAL cuando realizamos una conexion ssl** tendremos que introducir un prefijo antes del comando por ejemplo <a login user pass>
+**para que los comandos sen validos en el IMAL cuando realizamos una conexion ssl** tendremos que introducir un prefijo antes del comando por ejemplo 
+```bash
+a login <user> <pass>
+a list "" *
+a select <inbox>
+a fetch <id-mensaje> all
+a fetch <id-mensaje> body[]
+
+```
+
+
+para ver mensajes, primero se listara con list todos los inbox, deberemos de seleccionar un inbox valido y por ultimo leer con fetch all o fetch body{}
 
 Post Office Protocol (POP3) permite la sincronización de un cliente de correo electrónico local con un buzón del servidor.
 Este protocolo usa comunmente los puertos 110 y 995.
+
 ![[Pasted image 20251106090257.png]]
 
 Los puertos 993 y 995 utilizan encriptación TLS/SSL.

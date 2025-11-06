@@ -13,4 +13,22 @@ Este protocolo usa comunmente los puertos 110 y 995.
 
 Los puertos 993 y 995 utilizan encriptación TLS/SSL.
 
-- para enumerar 
+- para enumerar estos servicios se puede usar nmap:
+```bash
+sudo nmap -sCV -p110,143,993,995 <ip-objetivo>
+```
+
+- También podemos intentar conectar con curl si tenemos usuario.
+```bash
+ curl -k 'imaps://10.129.14.128' --user <user>:<passsword> -v
+```
+
+- haciendo uso de OpenSSl con TLS para interactuar con pop3
+```bash
+openssl s_client -connect <ip-objetivo>:pop3s
+```
+
+- haciendo uso de OpenSSl con TLS para interactuar con IMAP
+```bash
+openssl s_client -connect 10.129.14.128:imaps
+```

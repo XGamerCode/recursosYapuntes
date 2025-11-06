@@ -30,5 +30,5 @@ openssl s_client -connect <ip-objetivo>:pop3s
 
 - haciendo uso de OpenSSl con TLS para interactuar con IMAP
 ```bash
-openssl s_client -connect 10.129.14.128:imaps
+openssl s_client -connect <ip-objetivo>:imaps
 ```

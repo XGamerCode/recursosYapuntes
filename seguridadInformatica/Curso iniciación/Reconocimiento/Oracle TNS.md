@@ -38,7 +38,7 @@ ahora trataremos de encontrar los sid con odat
 
 una vez que el programa odat nos muestra una base de datos y un usuario valido tratamos de conectarnos con sqlplus
 ```bash
-sqlplus <usuario>/<contraseña>@<ip-objetivo>/<nombre-basedatos>
+sqlplus <usuario>/<contraseña>@<ip-objetivo>/<nombre-basedatos> as sysdba
 ```
 ya dentro de la basse de datos podemos hacer uso de comandos sql para ver la base de datos por ejemplo 
 ```bash 

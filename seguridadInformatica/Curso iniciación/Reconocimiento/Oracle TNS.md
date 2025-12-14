@@ -36,3 +36,8 @@ ahora trataremos de encontrar los sid con odat
  ./odat.py all -s <ip-objetivo>
 ```
 
+una vez que el programa odat nos muestra una base de datos y un usuario valido tratamos de conectarnos con sqlplus
+```bash
+```shell-sessio
+sqlplus scott/tiger@10.129.204.235/XE
+```

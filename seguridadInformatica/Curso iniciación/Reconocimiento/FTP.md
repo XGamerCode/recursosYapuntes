@@ -11,6 +11,11 @@ Tags: #reconocimiento
 cat /etc/vsftpd.conf | grep -v "#"
 ```
 
+- para interactuar con el servidor ftp se usa la herramienta ftp
+```bash
+  ftp <ip-objetivo>
+```
+
 - En la ruta /etc/ftpusers podremos ver la back list que contiene la lista de usuarios que no tienen permiso para entrar al sftp. 
 - El fallo mas importante del FTP es dejar la configuración del usuario anónimo que permite interactuar con el FTP sin autenticarse.
 - Algunos comandos utiles, status, debug,ls, ls -R, get,

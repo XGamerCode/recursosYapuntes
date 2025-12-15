@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/NFS.md",
+                "file": "Curso iniciación/Reconocimiento/SMB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NFS"
+              "title": "SMB"
             }
           }
         ],
@@ -197,6 +197,7 @@
   },
   "active": "d84342684d04308c",
   "lastOpenFiles": [
+    "Curso iniciación/Reconocimiento/NFS.md",
     "Curso iniciación/Reconocimiento/POP3-IMAP.md",
     "img/Pasted image 20251106090257.png",
     "img/Pasted image 20251106090240.png",
@@ -216,7 +217,6 @@
     "Curso iniciación/Reconocimiento/Sqlmap.md",
     "Curso iniciación/Buffer-overflow/script_py.md",
     "Curso iniciación/Buffer-overflow/buffer-overflow.md",
-    "Curso iniciación/Reconocimiento/NFS.md",
     "Curso iniciación/Reconocimiento/SMTP.md",
     "Curso iniciación/Reconocimiento/Nmap.md",
     "Curso iniciación/Reconocimiento/DNS.md",

@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "POP3-IMAP"
             }
-          },
-          {
-            "id": "85165b65cd440196",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.10.6"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,28 +195,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85165b65cd440196",
+  "active": "e4cf720bea8b8ece",
   "lastOpenFiles": [
+    "img/Pasted image 20251106090257.png",
+    "img/Pasted image 20251106090240.png",
+    "img/Pasted image 20251021111149.png",
+    "img/Pasted image 20251021104803.png",
+    "img/Pasted image 20251021104748.png",
+    "img/Pasted image 20251010115226.png",
+    "img/Pasted image 20251010115124.png",
+    "img/Pasted image 20251002173922.png",
+    "img/Pasted image 20251002173342.png",
+    "img/Pasted image 20250914142325.png",
+    "img/Pasted image 20250901180900.png",
+    "Maquinas/Editor/img",
+    "Maquinas/Editor/writeup editor.md",
+    "Maquinas/Editor",
+    "Curso iniciación/Reconocimiento/Oracle TNS.md",
     "Curso iniciación/Reconocimiento/SMB.md",
     "Curso iniciación/Reconocimiento/POP3-IMAP.md",
-    "Pasted image 20251106090257.png",
-    "Pasted image 20251106090240.png",
     "Curso iniciación/Reconocimiento/Sqlmap.md",
-    "img/Pasted image 20250901134734.png",
     "Curso iniciación/Buffer-overflow/script_py.md",
     "Curso iniciación/Buffer-overflow/buffer-overflow.md",
     "Curso iniciación/Reconocimiento/NFS.md",
     "Curso iniciación/Reconocimiento/SMTP.md",
     "Curso iniciación/Reconocimiento/Nmap.md",
-    "Pasted image 20251021111149.png",
     "Curso iniciación/Reconocimiento/DNS.md",
-    "Pasted image 20251021104803.png",
-    "Pasted image 20251021104748.png",
-    "Pasted image 20251010115226.png",
-    "Pasted image 20251010115124.png",
     "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
-    "Pasted image 20251002173922.png",
-    "Pasted image 20251002173342.png",
     "Curso iniciación/Reconocimiento/FTP.md",
     "Curso iniciación/Escalada de privilegios/Windows.md",
     "Curso iniciación/Guias de trabajo/Guía Footprinting.md",
@@ -244,16 +237,12 @@
     "Curso iniciación/Reconocimiento/gobuster.md",
     "Curso iniciación/Documentacion/SSH (Secure Shell).md",
     "Curso iniciación/Documentacion/Revert shell php.md",
-    "Curso iniciación/Documentacion/Puertos comunes.md",
-    "Curso iniciación/Documentacion/Netcat.md",
     "Maquinas/exploitable2_UCJC/img",
     "Maquinas/metasploitable-1/img",
     "Maquinas/exploitable1_UCJC/img",
     "Maquinas/metasploitable-1",
     "Maquinas/exploitable2_UCJC",
     "Maquinas/exploitable1_UCJC",
-    "Maquinas",
-    "Curso iniciación/Guias de trabajo",
-    "Curso iniciación/Escalada de privilegios/img"
+    "Maquinas"
   ]
 }

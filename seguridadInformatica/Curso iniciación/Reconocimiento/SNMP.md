@@ -14,3 +14,10 @@ con esto encontraremos el nombre para escanear con  snmpwalk
 ```bash
 snmpwalk -v2c -c <nombre-encontrado> <ip-objetivo>
 ```
+
+adicionalmente podremos usar braa para forzar encontrar los OIDs (nodos) y enumerar la informacion que contienen
+
+```bash
+sudo apt install braa
+braa <nombre-encontrado>@<ip-objetivo>:.1.3.6.*
+```

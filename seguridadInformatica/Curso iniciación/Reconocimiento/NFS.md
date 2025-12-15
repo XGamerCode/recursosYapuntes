@@ -54,3 +54,5 @@ a partir de aquí podemos usar comandos comunes de linux para ver los archivos o
 ```bash
 sudo umount ./target-NFS
 ```
+
+Puede que al intentar acceder a las carpetas compartidas no nos deje por permisos, por eso puede ser importante ejecutar los comandos con SUDO

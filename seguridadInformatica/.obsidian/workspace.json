@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/SMB.md",
+                "file": "Curso iniciación/Reconocimiento/RDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB"
+              "title": "RDP"
             }
           }
         ],
@@ -197,6 +197,10 @@
   },
   "active": "d84342684d04308c",
   "lastOpenFiles": [
+    "Pasted image 20251215142408.png",
+    "Curso iniciación/Documentacion/SSH (Secure Shell).md",
+    "Curso iniciación/Reconocimiento/RDP.md",
+    "Curso iniciación/Reconocimiento/SMB.md",
     "Curso iniciación/Reconocimiento/NFS.md",
     "Curso iniciación/Reconocimiento/POP3-IMAP.md",
     "img/Pasted image 20251106090257.png",
@@ -213,7 +217,6 @@
     "Maquinas/Editor/writeup editor.md",
     "Maquinas/Editor",
     "Curso iniciación/Reconocimiento/Oracle TNS.md",
-    "Curso iniciación/Reconocimiento/SMB.md",
     "Curso iniciación/Reconocimiento/Sqlmap.md",
     "Curso iniciación/Buffer-overflow/script_py.md",
     "Curso iniciación/Buffer-overflow/buffer-overflow.md",
@@ -234,8 +237,6 @@
     "Maquinas/exploitable1_UCJC/writeup ucjc1.md",
     "Maquinas/metasploitable-1/metasploitable-1.md",
     "Curso iniciación/Reconocimiento/gobuster.md",
-    "Curso iniciación/Documentacion/SSH (Secure Shell).md",
-    "Curso iniciación/Documentacion/Revert shell php.md",
     "Maquinas/exploitable2_UCJC/img",
     "Maquinas/metasploitable-1/img",
     "Maquinas/exploitable1_UCJC/img",

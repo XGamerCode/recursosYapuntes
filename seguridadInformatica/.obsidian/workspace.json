@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "POP3-IMAP"
             }
+          },
+          {
+            "id": "85165b65cd440196",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d84342684d04308c",
+  "active": "85165b65cd440196",
   "lastOpenFiles": [
     "Curso iniciación/Reconocimiento/SMB.md",
     "Curso iniciación/Reconocimiento/POP3-IMAP.md",

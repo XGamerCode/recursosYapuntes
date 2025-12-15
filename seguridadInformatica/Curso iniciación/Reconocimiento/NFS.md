@@ -44,7 +44,7 @@ showmount -e <ip-objetivo>
 
 ```bash
 mkdir target-NFS
-sudo mount -t <nombre-carpeta-remota> <ipobjetivo>:/ ./target-NFS/ -o nolock
+sudo mount -t nfs <ipobjetivo>:/<nombre-carpeta-remota> ./target-NFS/ -o nolock
 cd target-NFS
 ```
 

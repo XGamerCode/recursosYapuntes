@@ -38,4 +38,7 @@ alternativa sin usar comandos que usa el diccionario /usr/share/dirb/wordlists/c
 ```bash
 
 dirb <ip-objetivo>
+
+dirb http://IP/ /usr/share/dirb/wordlists/common.txt -X .php,.txt,.html,.bak,.old
+
 ```

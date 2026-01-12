@@ -32,3 +32,13 @@ gobuster dir -u http://underpass.htb/daloradius/app/ -w /usr/share/wordlists/dir
 ```
 
 El problema que le veo a gobuster es que no realiza búsquedas recursivas por todos los directorios, pero se pueden hacer a mano.
+
+alternativa sin usar comandos que usa el diccionario /usr/share/dirb/wordlists/common.txt
+
+```bash
+
+dirb <ip-objetivo>
+
+dirb http://IP/ /usr/share/dirb/wordlists/common.txt -X .php,.txt,.html,.bak,.old
+
+```

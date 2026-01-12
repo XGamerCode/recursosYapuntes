@@ -16,3 +16,10 @@ zip2john <nombre-archivo>.zip > hash
 ```bash
 john --wordlist=<ruta-diccionario> hash
 ```
+
+la rule korelogic aumenta las contraseñas a probar metiendo sustituciones y variaciones al diccionario que estableces
+
+```bash
+john --format=Raw-SHA256 --rules=KoreLogic --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
+
+```

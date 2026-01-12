@@ -11,6 +11,9 @@ DNS Domain Name System traduce nombres de dominio a direcciones ip.
 
 Para enumerar el servicio manualmente
 
+![[Pasted image 20260111115251.png]]
+
+
 Interactuamos con el servidor:
 ```bash
 dig ns <nombre-DNS-objetivo> @<ip-objetivo>
@@ -41,3 +44,8 @@ También se puede intentar hacer fuerza bruta con un diccionario con la herramie
 ```bash
 dnsenum --dnsserver <ip-objetivo> --enum -p 0 -s 0 -o subdomains.txt -f /opt/useful/seclists/Discovery/DNS/subdomains-top1million-110000.txt <nombre-dominio>
 ```
+
+Mas herramientas para enumerar DNS
+
+![[Pasted image 20260111115040.png]]
+

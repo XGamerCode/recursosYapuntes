@@ -3,4 +3,4 @@ aliases:
 ---
 ---
 
-trabajo para el lunes modificación de contratos
+Trabajo para el lunes modificación de contratos.

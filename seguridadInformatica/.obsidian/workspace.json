@@ -25,18 +25,16 @@
             "id": "d84342684d04308c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Tareas pendientes Alvantia.md",
-                "mode": "source",
-                "source": false
+                "file": "Sin título.base",
+                "viewName": "Tabla"
               },
-              "icon": "lucide-file",
-              "title": "Tareas pendientes Alvantia"
+              "icon": "lucide-table",
+              "title": "Sin título"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,11 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d84342684d04308c",
+  "active": "71cb39e84528bfcd",
   "lastOpenFiles": [
+    "Sin título.base",
+    "Tareas pendientes Alvantia.md",
+    "Pasted image 20251215142408.png",
     "Curso iniciación/Reconocimiento/RDP.md",
     "Curso iniciación/Reconocimiento/SNMP.md",
-    "Pasted image 20251215142408.png",
     "Curso iniciación/Documentacion/SSH (Secure Shell).md",
     "Curso iniciación/Reconocimiento/SMB.md",
     "Curso iniciación/Reconocimiento/NFS.md",
@@ -228,15 +228,12 @@
     "Curso iniciación/Escalada de privilegios/Windows.md",
     "Curso iniciación/Guias de trabajo/Guía Footprinting.md",
     "Curso iniciación/Escalada de privilegios/Linux&unix.md",
-    "Sin título.base",
-    "Tareas pendientes Alvantia.md",
     "Sin título.canvas",
     "2025-10-01.md",
     "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
     "Curso iniciación/Reconocimiento/Descubrimiento de tecnologías.md",
     "Maquinas/exploitable1_UCJC/writeup ucjc1.md",
     "Maquinas/metasploitable-1/metasploitable-1.md",
-    "Curso iniciación/Reconocimiento/gobuster.md",
     "Maquinas/exploitable2_UCJC/img",
     "Maquinas/metasploitable-1/img",
     "Maquinas/exploitable1_UCJC/img",

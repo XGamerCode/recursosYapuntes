@@ -38,6 +38,7 @@ Se intenta un cambio de zona interna:
 ```bash
 dig axfr subdominio.<nombre-DNS-objetivo> @<ip-objetivo>
 ```
+La transferencia de zona básicamente es  una copia de todos los subdominios eliminando la necesidad de realizar fuera bruta, raramente se puede acontecer.
 
 También se puede intentar hacer fuerza bruta con un diccionario con la herramienta dnsenum
 

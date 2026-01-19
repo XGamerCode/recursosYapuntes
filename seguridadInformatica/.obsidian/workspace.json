@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/SMB.md",
+                "file": "Curso iniciación/Reconocimiento/gobuster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB"
+              "title": "gobuster"
             }
           },
           {
@@ -195,6 +195,8 @@
   },
   "active": "71cb39e84528bfcd",
   "lastOpenFiles": [
+    "Curso iniciación/Contraseñas/Crackear hash online.md",
+    "Curso iniciación/Reconocimiento/SMB.md",
     "img/Pasted image 20260111115251.png",
     "img/Pasted image 20260111115040.png",
     "img/Pasted image 20251215142408.png",
@@ -205,21 +207,18 @@
     "Maquinas/DockerLabs/Wargames",
     "Maquinas/DockerLabs",
     "Curso iniciación/Reconocimiento/Descubrimiento de subdominios.md",
-    "Curso iniciación/Contraseñas/Crackear hash online.md",
     "Sin título.base",
     "Tareas pendientes Alvantia.md",
     "Pasted image 20251215142408.png",
     "Curso iniciación/Reconocimiento/RDP.md",
     "Curso iniciación/Reconocimiento/SNMP.md",
     "Curso iniciación/Documentacion/SSH (Secure Shell).md",
-    "Curso iniciación/Reconocimiento/SMB.md",
     "Curso iniciación/Reconocimiento/NFS.md",
     "Curso iniciación/Reconocimiento/POP3-IMAP.md",
     "img/Pasted image 20251106090257.png",
     "img/Pasted image 20251106090240.png",
     "img/Pasted image 20251021111149.png",
     "img/Pasted image 20251021104803.png",
-    "img/Pasted image 20251021104748.png",
     "Maquinas/Editor/img",
     "Maquinas/Editor/writeup editor.md",
     "Maquinas/Editor",

@@ -12,6 +12,10 @@ gobuster dir -u <url-objetivo> -w <diccionario-a-usar> -t 50
 - -b se puede ocultar códigos de estado separados por comas.
 - -x se especifican extensiones con las que probar para encontrar archivos de ese tipo.
 
+- Para escanear host virtuales:
+```bash 
+gobuster vhost -u http://<ip-objetivo>:<puerto-objetivo> -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt --append-domain
+```
 
 - Para ejecutar un análisis de subdominios podríamos usar los comandos:
 

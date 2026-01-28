@@ -11,14 +11,22 @@
             "id": "71cb39e84528bfcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "795f4b2b06af3e6e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/gobuster.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.5"
               },
-              "icon": "lucide-file",
-              "title": "gobuster"
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.11.5"
             }
           },
           {
@@ -34,7 +42,8 @@
               "title": "Sin título"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71cb39e84528bfcd",
+  "active": "795f4b2b06af3e6e",
   "lastOpenFiles": [
+    "Maquinas/DockerLabs/Wargames/Writeup Wargames.md",
+    "Curso iniciación/Reconocimiento/gobuster.md",
     "Curso iniciación/Contraseñas/Crackear hash online.md",
     "Curso iniciación/Reconocimiento/SMB.md",
     "img/Pasted image 20260111115251.png",
@@ -203,7 +214,6 @@
     "Maquinas/DockerLabs/Wargames/IMG/Pasted image 20260110133031.png",
     "Maquinas/DockerLabs/Wargames/IMG/Pasted image 20260110133537.png",
     "Maquinas/DockerLabs/Wargames/IMG",
-    "Maquinas/DockerLabs/Wargames/Writeup Wargames.md",
     "Maquinas/DockerLabs/Wargames",
     "Maquinas/DockerLabs",
     "Curso iniciación/Reconocimiento/Descubrimiento de subdominios.md",

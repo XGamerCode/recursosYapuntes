@@ -4,7 +4,7 @@ tags: #temario #master #tecnica #explotacion
 Pasos para realizar un ataque de buffer overflow a un binario:
 
 - Cargamos el programa a immunity debuger
-- Creamos con python un fuzzer como **proof of content** (POC)
+- Creamos con python un fuzzer como **proof of content** (POC)   
 - Usar pattern create para averiguar el offset exacto donde desborda el programa
 ```bash
 /usr/share/metasploit-framework/tools/exploit/pattern_create.rb -l <lengt desbordado>

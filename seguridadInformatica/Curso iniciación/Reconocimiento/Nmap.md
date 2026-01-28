@@ -1,7 +1,6 @@
+
 --------------------------------------
-
 - Tags: #reconocimiento #herramienta #scanner 
-
 ----
 # Definición
 

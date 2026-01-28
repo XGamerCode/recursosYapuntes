@@ -21,12 +21,14 @@
             "id": "795f4b2b06af3e6e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Curso iniciación/Documentacion/Netcat.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.11.5"
+              "icon": "lucide-file",
+              "title": "Netcat"
             }
           },
           {
@@ -204,6 +206,7 @@
   },
   "active": "795f4b2b06af3e6e",
   "lastOpenFiles": [
+    "Curso iniciación/Documentacion/Etapas de las pruebas de penetración.md",
     "Maquinas/DockerLabs/Wargames/Writeup Wargames.md",
     "Curso iniciación/Reconocimiento/gobuster.md",
     "Curso iniciación/Contraseñas/Crackear hash online.md",
@@ -246,7 +249,6 @@
     "Curso iniciación/Escalada de privilegios/Linux&unix.md",
     "Sin título.canvas",
     "2025-10-01.md",
-    "Curso iniciación/Reconocimiento/Descubrimiento Host.md",
     "Maquinas/exploitable2_UCJC/img",
     "Maquinas/metasploitable-1/img",
     "Maquinas/exploitable1_UCJC/img",

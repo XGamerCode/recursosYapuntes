@@ -35,12 +35,14 @@
             "id": "6055775100db917c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Curso iniciación/Reconocimiento/FinalRecon.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.11.7"
+              "icon": "lucide-file",
+              "title": "FinalRecon"
             }
           },
           {

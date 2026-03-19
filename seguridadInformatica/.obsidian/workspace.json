@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "6055775100db917c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.11.7"
+            }
+          },
+          {
             "id": "d84342684d04308c",
             "type": "leaf",
             "state": {
@@ -45,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "795f4b2b06af3e6e",
+  "active": "6055775100db917c",
   "lastOpenFiles": [
     "Curso iniciación/Reconocimiento/Scrapy.md",
     "Curso iniciación/Reconocimiento/FinalRecon.md",

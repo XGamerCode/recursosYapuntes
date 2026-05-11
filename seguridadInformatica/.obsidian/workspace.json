@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso iniciación/Reconocimiento/FinalRecon.md",
+                "file": "Curso iniciación/Reconocimiento/gobuster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FinalRecon"
+              "title": "gobuster"
             }
           },
           {
@@ -234,8 +234,9 @@
   },
   "active": "8b1344cf1fb90bae",
   "lastOpenFiles": [
-    "Curso iniciación/Reconocimiento/Scrapy.md",
+    "Curso iniciación/Reconocimiento/netdiscover.md",
     "Curso iniciación/Reconocimiento/FinalRecon.md",
+    "Curso iniciación/Reconocimiento/Scrapy.md",
     "Curso iniciación/Documentacion/Netcat.md",
     "Curso iniciación/Documentacion/Etapas de las pruebas de penetración.md",
     "Maquinas/DockerLabs/Wargames/Writeup Wargames.md",
@@ -275,7 +276,6 @@
     "Curso iniciación/Reconocimiento/DNS.md",
     "Curso iniciación/Vulnerabilidades/LFI (Local File Inclusion).md",
     "Curso iniciación/Reconocimiento/FTP.md",
-    "Curso iniciación/Escalada de privilegios/Windows.md",
     "Sin título.canvas",
     "Maquinas/exploitable2_UCJC/img",
     "Maquinas/metasploitable-1/img",

@@ -60,6 +60,18 @@
             }
           },
           {
+            "id": "d72bb45ed32a2f7f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.7"
+            }
+          },
+          {
             "id": "d84342684d04308c",
             "type": "leaf",
             "state": {
@@ -73,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b1344cf1fb90bae",
+  "active": "d72bb45ed32a2f7f",
   "lastOpenFiles": [
     "Curso iniciación/Reconocimiento/netdiscover.md",
     "Curso iniciación/Reconocimiento/FinalRecon.md",
